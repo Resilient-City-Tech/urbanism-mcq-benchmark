@@ -1,1 +1,1 @@
-# urbanism-mcq-benchmark
+# Urbanism and Smart Cities MCQ Benchmark
