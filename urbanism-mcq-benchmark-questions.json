@@ -1,0 +1,1113 @@
+[
+  {
+    "id": 0,
+    "question": "What is essential for a vibrant urban street life?",
+    "choices": [
+      "High-speed traffic",
+      "Mixed-use buildings",
+      "Wide vehicle lanes",
+      "Elevated walkways"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 1,
+    "question": "What is a key feature of permeable boundaries in urban design?",
+    "choices": [
+      "Large fences",
+      "Open storefronts",
+      "High walls",
+      "Underground passages"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 2,
+    "question": "What mode of public transport is a hallmark of transport-oriented cities?",
+    "choices": [
+      "Metro systems",
+      "Light rail transit",
+      "Water taxis",
+      "Monorails"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 3,
+    "question": "In Venice, what distance ensures accessibility to water transport?",
+    "choices": [
+      "50 meters",
+      "200–300 meters",
+      "500 meters",
+      "1 kilometer"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 4,
+    "question": "What promotes equitable mobility in cities?",
+    "choices": [
+      "Car-centric design",
+      "Walkable neighborhoods and cycling paths",
+      "Expensive toll systems",
+      "Underground parking lots"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 5,
+    "question": "What type of urban space fosters social interaction?",
+    "choices": [
+      "Narrow alleys",
+      "Pedestrian plazas",
+      "Underground malls",
+      "Expressways"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 6,
+    "question": "What improves pedestrian engagement in public spaces?",
+    "choices": [
+      "Shade and seating areas",
+      "High-speed car lanes",
+      "Noise barriers",
+      "Chain-link fences"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 7,
+    "question": "What percentage of commutes in Copenhagen are made by bicycle as of 2008?",
+    "choices": [
+      "15%",
+      "37%",
+      "50%",
+      "70%"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 8,
+    "question": "What feature ensures safe cycling in cities like Copenhagen?",
+    "choices": [
+      "Shared lanes with cars",
+      "Dedicated, separated cycle tracks",
+      "Gravel pathways",
+      "Underground tunnels"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 9,
+    "question": "What facilitates the integration of bicycles into public transport?",
+    "choices": [
+      "Bicycle storage at transit stops",
+      "Prohibition of bicycles on buses",
+      "Limited parking availability",
+      "High rental costs"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 10,
+    "question": "Above which floor does a connection to street life diminish?",
+    "choices": [
+      "2nd floor",
+      "5th floor",
+      "10th floor",
+      "15th floor"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 11,
+    "question": "What distance allows people to recognize emotions like joy or sadness?",
+    "choices": [
+      "2 meters",
+      "10 meters",
+      "20 meters",
+      "30 meters"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 12,
+    "question": "What feature defines a well-functioning public space?",
+    "choices": [
+      "Abundance of parking spaces",
+      "Proximity to commercial hubs",
+      "High accessibility and inclusivity",
+      "Controlled access points"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 13,
+    "question": "What is the ideal walking distance to public transport for urban dwellers?",
+    "choices": [
+      "50 meters",
+      "300–500 meters",
+      "1 kilometer",
+      "2 kilometers"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 14,
+    "question": "What is critical for a successful pedestrian street?",
+    "choices": [
+      "Wide vehicle access",
+      "Mixed-use development and street-level activity",
+      "Elevated crossings",
+      "Restricted pedestrian zones"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 15,
+    "question": "Which design element helps reduce traffic speed in urban areas?",
+    "choices": [
+      "Narrow streets",
+      "High-speed lanes",
+      "Traffic signals",
+      "Overpasses"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 16,
+    "question": "Which city is a global leader in integrating cycling into urban mobility?",
+    "choices": [
+      "New York",
+      "Amsterdam",
+      "Tokyo",
+      "Paris"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 17,
+    "question": "What is the recommended width for a two-way cycling path?",
+    "choices": [
+      "1 meter",
+      "2.5 meters",
+      "3 meters",
+      "4 meters"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 18,
+    "question": "What enhances the permeability of urban boundaries?",
+    "choices": [
+      "Transparent materials like glass",
+      "Fences and gates",
+      "Elevated pathways",
+      "Underground tunnels"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 19,
+    "question": "What is an advantage of permeable boundaries?",
+    "choices": [
+      "Enhances private spaces",
+      "Increases public engagement and visibility",
+      "Reduces urban activity",
+      "Limits pedestrian access"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 20,
+    "question": "What is the optimal height-to-width ratio for streets to promote human-scale design?",
+    "choices": [
+      "1:1",
+      "1:2",
+      "1:3",
+      "1:4"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 21,
+    "question": "What type of buildings creates a better urban experience for pedestrians?",
+    "choices": [
+      "Single-use office buildings",
+      "Mixed-use, street-level active buildings",
+      "High-rise residential towers",
+      "Suburban-style malls"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 22,
+    "question": "What are the three types of outdoor activities discussed in urban studies?",
+    "choices": [
+      "Necessary, optional, social",
+      "Walking, sitting, talking",
+      "Playing, working, eating",
+      "Recreational, functional, social"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 23,
+    "question": "Which type of outdoor activity is most influenced by the quality of the physical environment in urban planning?",
+    "choices": [
+      "Social activities",
+      "Necessary activities",
+      "All of the above",
+      "Optional activities"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 24,
+    "question": "What is the primary focus of functionalism in urban planning?",
+    "choices": [
+      "Economic and financial aspects",
+      "Social and psychological aspects",
+      "Physiological and functional aspects",
+      "Aesthetic and visual aspects"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 25,
+    "question": "What is a key feature of medieval urban spaces that makes them well-suited for outdoor activities?",
+    "choices": [
+      "Underground parking facilities",
+      "High-speed car lanes",
+      "Large, impersonal spaces",
+      "Ample dimensioning and spatial qualities"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 26,
+    "question": "What is the main attraction for people in public spaces according to urban studies?",
+    "choices": [
+      "Advertisements and billboards",
+      "People and human activities",
+      "Cars and traffic",
+      "Buildings and architecture"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 27,
+    "question": "What is a consequence of functionalistic planning principles on outdoor activities?",
+    "choices": [
+      "Increased pedestrian traffic",
+      "Better conditions for cycling",
+      "Reduction and spreading of outdoor activities",
+      "More green spaces"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 28,
+    "question": "What is a key feature of the Piazza del Campo in Siena that makes it a successful public space?",
+    "choices": [
+      "Large, open spaces",
+      "Underground parking facilities",
+      "High-speed car lanes",
+      "Enclosed spatial design and orientation"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 29,
+    "question": "What is a common criticism of post-modern architecture in urban studies?",
+    "choices": [
+      "Too much focus on usefulness",
+      "Lack of artistic statement",
+      "Strained and stilted buildings",
+      "Not enough green spaces"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 30,
+    "question": "What is a key feature of the cooperative housing project Tinggården that supports social structure?",
+    "choices": [
+      "Underground parking facilities",
+      "Large, impersonal spaces",
+      "Hierarchy of communal spaces",
+      "High-speed car lanes"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 31,
+    "question": "What is a benefit of establishing a clear social and physical structure in residential areas?",
+    "choices": [
+      "Greater feeling of security and sense of belonging",
+      "Increased car traffic",
+      "Less green spaces",
+      "More noise pollution"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 32,
+    "question": "What is a key feature of the Byker complex in Newcastle that eased the transition for residents?",
+    "choices": [
+      "Underground parking facilities",
+      "High-speed car lanes",
+      "Large, impersonal spaces",
+      "Clearly defined units and physical demarcation"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 33,
+    "question": "What is a key feature of successful public spaces that encourages social activities?",
+    "choices": [
+      "Opportunities for meeting and interaction",
+      "Underground parking facilities",
+      "Large, open spaces",
+      "High-speed car lanes"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 34,
+    "question": "What is a key feature of the Renaissance planning principles that affected outdoor activities?",
+    "choices": [
+      "Focus on social and psychological aspects",
+      "Focus on economic and financial aspects",
+      "Emphasis on visual expression and aesthetics",
+      "Emphasis on green spaces"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 35,
+    "question": "What is a key feature of the functionalistic planning principles that affected outdoor activities?",
+    "choices": [
+      "Focus on economic and financial aspects",
+      "Emphasis on green spaces",
+      "Emphasis on physiological and functional aspects",
+      "Focus on social and psychological aspects"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 36,
+    "question": "What is a key feature of medieval cities that supported outdoor activities?",
+    "choices": [
+      "Underground parking facilities",
+      "High-speed car lanes",
+      "Slow evolution and adaptation to functions",
+      "Large, open spaces"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 37,
+    "question": "What term describes how people perceive and organize their environment in cities?",
+    "choices": [
+      "Spatial Planning",
+      "Imageability",
+      "Visual Hierarchy",
+      "Cognitive Mapping"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 38,
+    "question": "Which of the following is a primary element for organizing a city's image?",
+    "choices": [
+      "Traffic lights",
+      "Landmarks",
+      "Parking lots",
+      "Billboards"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 39,
+    "question": "What element often defines boundaries between districts in urban areas?",
+    "choices": [
+      "Landmarks",
+      "Paths",
+      "Edges",
+      "Nodes"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 40,
+    "question": "What is the role of key urban nodes?",
+    "choices": [
+      "They obscure visibility between districts",
+      "They define linear pathways through the city",
+      "They are key junctions and focal points of activity",
+      "They serve as barriers between regions"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 41,
+    "question": "What makes an urban district easily identifiable?",
+    "choices": [
+      "Its height and skyline silhouette",
+      "Its two-dimensional extent and distinct character",
+      "Its traffic density",
+      "Its boundaries"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 42,
+    "question": "How should cities be designed to cater to diverse populations?",
+    "choices": [
+      "By emphasizing large, dominant elements for all neighborhoods",
+      "With a focus on aesthetics over functionality",
+      "By providing multiple interconnected paths, edges, and landmarks",
+      "Through strict zoning to separate activities"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 43,
+    "question": "Which natural element reinforces urban design and structure?",
+    "choices": [
+      "Urban sprawl",
+      "Sharp hills and rivers",
+      "Historical landmarks",
+      "Highways and traffic signals"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 44,
+    "question": "What type of city layout frustrates efforts to organize surroundings?",
+    "choices": [
+      "Richly detailed and interconnected areas",
+      "Monotonous and rigidly compartmentalized designs",
+      "Areas with significant visual hierarchy",
+      "Neighborhoods with flexible paths and nodes"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 45,
+    "question": "What contributes to the strong identity of metropolitan regions?",
+    "choices": [
+      "Random placement of paths and landmarks",
+      "Uniform building heights and facades",
+      "Segregated neighborhoods with minimal overlap",
+      "Strong nodes, clear paths, and regional homogeneity"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 46,
+    "question": "What design approach helps maintain continuity during urban change?",
+    "choices": [
+      "Retaining landmarks and thematic units",
+      "Removing old landmarks entirely",
+      "Expanding zoning restrictions",
+      "Focusing on high-speed transit"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 47,
+    "question": "What critical feature improves real-time traffic management in smart cities?",
+    "choices": [
+      "AI-based predictive algorithms",
+      "Pre-timed traffic lights",
+      "Dynamic lane markings", 
+      "Manual traffic controllers"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 48,
+    "question": "Which technology best supports resilient energy management in urban areas?",
+    "choices": [
+      "Traditional electric meters",
+      "Steam-powered turbines",
+      "Smart grids with decentralized storage",
+      "Single-source nuclear power"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 49,
+    "question": "What system allows city governments to predict and manage water consumption trends?",
+    "choices": [
+      "Public manual inspections",
+      "IoT-integrated smart metering",
+      "Fixed irrigation timers",
+      "Paper-based records"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 50,
+    "question": "In digital urban planning, what does \"geofencing\" enable?",
+    "choices": [
+      "Cloud-based document storage",
+      "Underground zoning restrictions",
+      "Virtual area-based controls and alerts",
+      "Physical boundary creation"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 51,
+    "question": "Which innovation enhances pedestrian safety through digital infrastructure?",
+    "choices": [
+      "Reflective signage",
+      "Audible traffic signals only",
+      "Chain-linked barricades",
+      "Connected crosswalks with sensor feedback"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 52,
+    "question": "What is the primary function of a smart waste management system?",
+    "choices": [
+      "Optimize routes using data analytics",
+      "Increase collection frequency",
+      "Use more collection trucks",
+      "Rely on manual sorting"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 53,
+    "question": "Which digital service enhances citizen engagement in public services?",
+    "choices": [
+      "Bulletin board announcements",
+      "Manual voter registration",
+      "Online portals for issue reporting",
+      "Fixed-term permits"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 54,
+    "question": "What technology is pivotal for integrating autonomous vehicles into urban traffic?",
+    "choices": [
+      "V2X (Vehicle-to-Everything) communication",
+      "Satellite-guided radar",
+      "Analog radio systems",
+      "RFID stickers on tires"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 55,
+    "question": "How can urban heat islands be mitigated through smart city technology?",
+    "choices": [
+      "High-speed highway expansions",
+      "Automated irrigation with green roofs",
+      "Industrial cooling systems",
+      "Expanded concrete pavements"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 56,
+    "question": "What tool is essential for monitoring real-time air quality in cities?",
+    "choices": [
+      "Street-level cameras",
+      "Traditional barometers",
+      "Digital LED billboards",
+      "Networked air quality sensors"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 57,
+    "question": "What is the primary advantage of adaptive traffic control systems?",
+    "choices": [
+      "Enhanced fuel consumption for vehicles",
+      "Reduced dependence on pedestrian infrastructure",
+      "Fixed timing for intersections",
+      "Real-time traffic flow optimization"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 58,
+    "question": "How do digital twins benefit urban planning?",
+    "choices": [
+      "They store building permits",
+      "They create static architectural models",
+      "They simulate and predict city systems in virtual environments",
+      "They replace physical infrastructure with digital replicas"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 59,
+    "question": "What is a major challenge of integrating IoT in public safety infrastructure?",
+    "choices": [
+      "Slower data processing",
+      "Increased human resource needs",
+      "Cybersecurity vulnerabilities",
+      "Manual intervention"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 60,
+    "question": "What role does crowdsourcing play in urban data collection?",
+    "choices": [
+      "Centralized government reporting",
+      "Limiting public input to official reports",
+      "Eliminating sensors",
+      "Collecting citizen-generated data for decision-making"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 61,
+    "question": "Which feature distinguishes smart meters from traditional meters in energy management?",
+    "choices": [
+      "Physical meter reading",
+      "Mechanical dials",
+      "Two-way communication with the grid",
+      "Single-rate billing"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 62,
+    "question": "What defines the concept of \"urban mobility as a service\" (MaaS)?",
+    "choices": [
+      "Expanding personal car use",
+      "Integrating various transport modes into a single platform",
+      "Owning private vehicles",
+      "Limiting transport to buses and trains"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 63,
+    "question": "What is a key use of augmented reality (AR) in smart city applications?",
+    "choices": [
+      "Visualizing underground utility networks",
+      "Enhancing gaming environments",
+      "Replacing traffic cameras",
+      "Displaying static billboards"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 64,
+    "question": "What system underpins automated public lighting adjustments?",
+    "choices": [
+      "Standard streetlight bulbs",
+      "Timer-based scheduling",
+      "Fixed manual control panels",
+      "Light sensors with IoT connectivity"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 65,
+    "question": "Which platform helps optimize urban resource management through data sharing?",
+    "choices": [
+      "Fixed signage systems",
+      "Centralized waste bins",
+      "Private traffic logs",
+      "Open data platforms"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 66,
+    "question": "What technology supports real-time monitoring of structural health in smart buildings?",
+    "choices": [
+      "Static architecture diagrams",
+      "Manual inspections",
+      "Embedded vibration sensors",
+      "Reinforced concrete"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 67,
+    "question": "What is a direct benefit of integrating cloud computing in city management?",
+    "choices": [
+      "Reduced need for internet connectivity",
+      "Increased local server dependency",
+      "Higher energy costs",
+      "Scalable data processing and storage"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 68,
+    "question": "Urban Infrastructure and Climate Change\n\nWhat is a primary characteristic of climate-resilient urban infrastructure?",
+    "choices": [
+        "High-rise luxury apartments",
+        "Decentralized renewable energy systems",
+        "Expensive private transportation",
+        "Over-reliance on air conditioning"
+    ],
+    "answerIndex": 1
+  },
+  {
+      "id": 69,
+      "question": "How can cities mitigate the urban heat island effect?",
+      "choices": [
+          "Increasing paved surfaces",
+          "Expanding urban tree cover and green roofs",
+          "Installing more streetlights",
+          "Building taller buildings to block wind"
+      ],
+      "answerIndex": 1
+  },
+  {
+      "id": 70,
+      "question": "Which urban infrastructure investment can significantly improve resilience against flooding?",
+      "choices": [
+          "Expanding road networks",
+          "Building underground parking lots",
+          "Constructing sponge cities with permeable surfaces",
+          "Increasing car parking spaces"
+      ],
+      "answerIndex": 2
+  },
+  {
+      "id": 71,
+      "question": "Why are informal settlements particularly vulnerable to climate change?",
+      "choices": [
+          "They are often located in environmentally hazardous areas",
+          "They have the best infrastructure in cities",
+          "They receive more government funding than formal settlements",
+          "They are built on elevated lands away from risks"
+      ],
+      "answerIndex": 0
+  },
+  {
+      "id": 72,
+      "question": "Which group is disproportionately affected by climate disasters in cities?",
+      "choices": [
+          "Wealthy property owners",
+          "Middle-class professionals",
+          "Women, children, and people with disabilities",
+          "Government officials"
+      ],
+      "answerIndex": 2
+  },
+  {
+      "id": 73,
+      "question": "What is a common unintended consequence of poorly planned urban climate action?",
+      "choices": [
+          "Increased social inclusion",
+          "Reduction in property values",
+          "Green gentrification and displacement of vulnerable communities",
+          "Decreased economic activity"
+      ],
+      "answerIndex": 2
+  },
+  {
+      "id": 74,
+      "question": "What is an essential strategy for making urban areas more resilient to climate change?",
+      "choices": [
+          "Reducing reliance on nature-based solutions",
+          "Promoting car-centric urban design",
+          "Strengthening multi-level governance and community engagement",
+          "Avoiding new housing developments"
+      ],
+      "answerIndex": 2
+  },
+  {
+      "id": 75,
+      "question": "Which of the following best describes a people-centered approach to urban climate resilience?",
+      "choices": [
+          "Focusing solely on technological solutions",
+          "Involving local communities in decision-making processes",
+          "Relying only on national government policies",
+          "Ignoring social inequalities"
+      ],
+      "answerIndex": 1
+  },
+  {
+      "id": 76,
+      "question": "What role do nature-based solutions play in urban resilience?",
+      "choices": [
+          "They only benefit rural areas",
+          "They help cities manage heat, floods, and biodiversity loss",
+          "They replace all artificial infrastructure",
+          "They are too expensive for practical implementation"
+      ],
+      "answerIndex": 1
+  },
+  {
+      "id": 77,
+      "question": "How can cities effectively reduce their greenhouse gas emissions?",
+      "choices": [
+          "Encouraging urban sprawl",
+          "Investing in public transportation and renewable energy",
+          "Relying solely on fossil fuels",
+          "Expanding highways and road infrastructure"
+      ],
+      "answerIndex": 1
+  },
+  {
+      "id": 78,
+      "question": "What is a major source of emissions in urban areas?",
+      "choices": [
+          "Solar power plants",
+          "Public parks and green spaces",
+          "Energy consumption in buildings and transportation",
+          "Pedestrian pathways"
+      ],
+      "answerIndex": 2
+  },
+  {
+      "id": 79,
+      "question": "Why are compact cities generally more sustainable than sprawling ones?",
+      "choices": [
+          "They increase car dependency",
+          "They encourage higher emissions per capita",
+          "They promote efficient land use and reduce transportation emissions",
+          "They have more industrial zones"
+      ],
+      "answerIndex": 2
+  },
+  {
+      "id": 80,
+      "question": "What is a key challenge in financing urban climate resilience projects?",
+      "choices": [
+          "Lack of available technology",
+          "Inadequate data on climate risks",
+          "Lack of financial instruments and funding mechanisms",
+          "Too much private sector investment"
+      ],
+      "answerIndex": 2
+  },
+  {
+    "id": 81,
+    "question": "How can public spaces in spontaneous settlements help mitigate environmental risks?",
+    "choices": [
+        "By introducing green infrastructure and flood mitigation measures",
+        "By increasing construction density",
+        "By limiting public access to preserve land",
+        "By encouraging more private development"
+    ],
+    "answerIndex": 0
+  },
+  {
+      "id": 82,
+      "question": "What is a common challenge for waste management in public spaces of spontaneous settlements?",
+      "choices": [
+          "Excessive recycling initiatives",
+          "Lack of community interest",
+          "Overuse of incinerators",
+          "Narrow roads preventing garbage truck access"
+      ],
+      "answerIndex": 3
+  },
+  {
+      "id": 83,
+      "question": "What is a major urban challenge faced by spontaneous settlements in Latin America?",
+      "choices": [
+          "Lack of cultural identity",
+          "Over-regulation of public spaces",
+          "Excessive investment in recreational spaces",
+          "Urban exclusion and lack of integration into city dynamics"
+      ],
+      "answerIndex": 3
+  },
+  {
+      "id": 84,
+      "question": "Which urban strategy has proven effective in integrating spontaneous settlements into the formal city?",
+      "choices": [
+          "Strict zoning regulations",
+          "Public space creation and community involvement",
+          "Large-scale highway projects",
+          "High-rise social housing blocks"
+      ],
+      "answerIndex": 1
+  },
+  {
+      "id": 85,
+      "question": "What is a common funding strategy for public space projects in informal settlements?",
+      "choices": [
+          "Full government financing with no community input",
+          "Exclusive reliance on private developers",
+          "A mix of municipal, private, and NGO funding",
+          "Foreign aid with no local government involvement"
+      ],
+      "answerIndex": 2
+  },
+  {
+      "id": 86,
+      "question": "Why is public space investment often seen as more viable than social housing projects?",
+      "choices": [
+          "Housing projects are no longer needed in spontaneous settlements",
+          "Public space requires less maintenance than housing",
+          "Public space does not require community participation",
+          "Public space projects are significantly less expensive"
+      ],
+      "answerIndex": 3
+  },
+  {
+      "id": 87,
+      "question": "What is one of the social benefits of public space development in spontaneous settlements?",
+      "choices": [
+          "Strengthening of local identity and social cohesion",
+          "Increased land prices that displace existing residents",
+          "Reduction of public space in wealthier areas",
+          "Isolation of communities from the formal city"
+      ],
+      "answerIndex": 0
+  },
+  {
+      "id": 88,
+      "question": "How do public spaces contribute to crime reduction in informal settlements?",
+      "choices": [
+          "By reducing foot traffic in these areas",
+          "By encouraging gated communities",
+          "By increasing surveillance and security presence",
+          "By providing youth with activity options and gathering spaces"
+      ],
+      "answerIndex": 3
+  },
+  {
+      "id": 89,
+      "question": "What role does cultural programming play in newly created public spaces?",
+      "choices": [
+          "It ensures only local residents use the space",
+          "It replaces the need for physical infrastructure improvements",
+          "It limits the use of space to specific community members",
+          "It activates spaces, making them more vibrant and inclusive"
+      ],
+      "answerIndex": 3
+  },
+  {
+      "id": 90,
+      "question": "Why is accessibility a crucial factor in public space projects?",
+      "choices": [
+          "It reduces the need for community participation",
+          "It discourages tourism in informal settlements",
+          "It allows for better economic and social integration",
+          "It ensures spaces remain exclusive to local residents"
+      ],
+      "answerIndex": 2
+  },
+  {
+      "id": 91,
+      "question": "What is the primary difference between a \"ribbon\" and a \"cluster\" in urban settlement patterns?",
+      "choices": [
+          "Ribbons are modern, while clusters are historical.",
+          "Ribbons are for the wealthy, while clusters are for the poor.",
+          "Ribbons are always rural, while clusters are urban.",
+          "Ribbons are linear and extendable, while clusters are dense and limited."
+      ],
+      "answerIndex": 3
+  },
+  {
+      "id": 92,
+      "question": "Which of the following best describes the \"ladder\" structure in urban design?",
+      "choices": [
+          "A radial pattern with a central core.",
+          "A grid of uniform blocks without hierarchy.",
+          "A system of parallel roads connected by cross-connections.",
+          "A single road with plots on either side."
+      ],
+      "answerIndex": 2
+  },
+  {
+      "id": 93,
+      "question": "What is the primary function of a \"belfry\" in a medieval urban context?",
+      "choices": [
+          "To house religious ceremonies.",
+          "To serve as a marketplace.",
+          "To act as a defensive structure.",
+          "To symbolize civic autonomy and provide collective functions."
+      ],
+      "answerIndex": 3
+  },
+  {
+      "id": 94,
+      "question": "How does the \"network\" differ from the \"polynuclear field\" in urban planning?",
+      "choices": [
+          "The network is static, while the polynuclear field is dynamic.",
+          "The network is hierarchical, while the polynuclear field is not.",
+          "The network is rural, while the polynuclear field is urban.",
+          "The network creates territorial isotropy, while the polynuclear field focuses on interconnected cores."
+      ],
+      "answerIndex": 3
+  },
+  {
+      "id": 95,
+      "question": "What is the role of a \"threshold\" in urban design?",
+      "choices": [
+          "To block movement entirely.",
+          "To serve as a decorative element.",
+          "To mark the transition between different environments.",
+          "To separate two identical spaces."
+      ],
+      "answerIndex": 2
+  },
+  {
+      "id": 96,
+      "question": "Which of the following best describes the \"fabric\" in urban morphology?",
+      "choices": [
+          "A planned settlement with a specific functional design.",
+          "A temporary settlement for workers.",
+          "A fortified structure for defense.",
+          "An organic settlement shaped by local conditions."
+      ],
+      "answerIndex": 3
+  },
+  {
+      "id": 97,
+      "question": "What is the significance of the \"lighthouse\" in the context of urban design?",
+      "choices": [
+          "It is used for agricultural purposes.",
+          "It serves as a residential building.",
+          "It functions as a marketplace.",
+          "It marks geographic boundaries and provides orientation."
+      ],
+      "answerIndex": 3
+  },
+  {
+      "id": 98,
+      "question": "How does the \"oasis\" concept relate to contemporary urban development?",
+      "choices": [
+          "It is used to describe densely populated areas.",
+          "It refers to industrial zones.",
+          "It represents exclusive enclaves that mimic the idea of a self-sufficient refuge.",
+          "It is synonymous with public parks."
+      ],
+      "answerIndex": 2
+  },
+  {
+      "id": 99,
+      "question": "What is the primary purpose of a \"monument\" in urban design?",
+      "choices": [
+          "To act as a defensive structure.",
+          "To commemorate events or individuals.",
+          "To function as a marketplace.",
+          "To serve as a residential building."
+      ],
+      "answerIndex": 1
+  },
+  {
+      "id": 100,
+      "question": "How does the \"slope step\" address topographical variations in urban design?",
+      "choices": [
+          "By flattening the entire area.",
+          "By creating a plinth to absorb the difference in level.",
+          "By avoiding sloped areas entirely.",
+          "By using only horizontal construction methods."
+      ],
+      "answerIndex": 1
+  }
+]
