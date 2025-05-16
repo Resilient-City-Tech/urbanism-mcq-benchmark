@@ -22,3 +22,6 @@ Key Results for proprietary models:
 There are 101 questions in this dataset, but we try to select and create different types of questions.
 
 If you are an architect, urbanist, or environmental activist working with cities or have any ideas for urban-related questions and datasets, please contribute to the project by submitting a pull request on our repository.
+
+[<img src="https://github.com/Resilient-City-Tech/AwesomeDigitalUrbanism/blob/main/img/rct-instagram.png?raw=true" width="5%"/>](https://www.instagram.com/citytechresilient/)
+[<img src="https://github.com/Resilient-City-Tech/AwesomeDigitalUrbanism/blob/main/img/rct-youtube-logo.png?raw=true" width="4%"/>](https://www.youtube.com/@ResilientCityTech)
